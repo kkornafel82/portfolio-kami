@@ -1,0 +1,17 @@
+---
+layout: post
+title: Test Post!
+thumbnail-path: "img/blocflix.png"
+___
+
+
+
+
+**This is a test Post
+
+``` ruby
+
+This is a bunch of code in markdown
+
+```
+
